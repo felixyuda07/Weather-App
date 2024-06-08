@@ -1,6 +1,7 @@
 # flutter_app
 
 A new Flutter project.
+![Logo](https://github.com/felixyuda07/Weather-App/blob/main/images/ss.png)
 
 ## Getting Started
 
